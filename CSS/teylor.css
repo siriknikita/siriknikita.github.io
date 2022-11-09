@@ -2,6 +2,7 @@ body {
     background-color: rgb(211, 211, 211);
     color:black;
 }
+
 .formula {
     border: 2px solid black;
     border-radius: 8px;
@@ -9,6 +10,7 @@ body {
     height: 92.5px;
     width: 810px;
 }
+
 .formula1 {
     border: 2px solid black;
     border-radius: 8px;
@@ -16,6 +18,7 @@ body {
     height: 400px;
     width: 810px;
 }
+
 .formula2 {
     border: 2px solid black;
     border-radius: 8px;
@@ -23,12 +26,14 @@ body {
     height: 170px;
     width: 810px;
 }
+
 .text {
     font-size: 27px;
     border: 1px solid black;
     border-radius: 8px;
     padding: 5px;
 }
+
 .example {
     font-size: 27px;
     border: 1px solid black;
