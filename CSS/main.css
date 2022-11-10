@@ -3,11 +3,16 @@ body {
   color: black;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .text {
   font-size: 27px;
   border: 1px solid black;
   border-radius: 8px;
   padding: 5px;
+  display: inline;
 }
 
 .button {
@@ -65,4 +70,8 @@ body {
   color: white;
   border-radius: 8px;
   padding: 5px;
+}
+
+.notvisible {
+  visibility: hidden;
 }
