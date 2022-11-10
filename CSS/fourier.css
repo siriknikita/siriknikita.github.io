@@ -25,7 +25,7 @@ html {
   border-radius: 8px;
   padding: 5px;
   height: 417px;
-  width: 552.5px;
+  width: 590px;
 }
 
 .formula3 {
@@ -33,7 +33,7 @@ html {
   border-radius: 8px;
   padding: 5px;
   height: 108px;
-  width: 469.5px;
+  width: 620px;
 }
 
 .text {
@@ -43,11 +43,12 @@ html {
   padding: 5px;
 }
 
-.example {
+.task {
   font-size: 27px;
   border: 1px solid black;
   border-radius: 8px;
   padding: 5px;
+  display: inline;
 }
 
 .button {
